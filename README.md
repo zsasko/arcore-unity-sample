@@ -1,8 +1,10 @@
 # ARCore Unity Sample
 
-This project is sample application that demonstrates using ARCore library in Unity for displaying simple chair object.
+This project is sample application that demonstrates using ARCore library in Unity for displaying simple chair object. 
 
 ![](https://cdn-images-1.medium.com/max/800/1*Xg6jFxHC9IAEzvU0dJ0R8w.png)
+
+Setup note: make sure that you have selected 'Android' Build Platform.
 
 It's a source code for the following article on the medium:
 
