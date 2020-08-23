@@ -528,7 +528,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FirstPersonCamera: {fileID: 646831371}
-  PawnPrefab: {fileID: 5217249133968608391, guid: aacd5d177547fe349ba804156fd38d15,
+  PawnPrefab: {fileID: 2239641591216361113, guid: f6e7ae60324d0e743948a3d2af26dca3,
     type: 3}
   ManipulatorPrefab: {fileID: 1122865395318488, guid: 24556cd4924884d9aaa3d80135c8021d,
     type: 3}
